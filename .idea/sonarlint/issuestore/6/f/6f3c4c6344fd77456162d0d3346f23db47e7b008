@@ -1,0 +1,18 @@
+
+Csquid:S1068"'Remove this unused "TAG" private field.(š†‰Ú8Ã³´®,
+_squid:S1068">Remove this unused "EXTRA_FINAL_AVATAR_PADDING" private field.(ïàÒëıÿÿÿÿ8Ã³´®,
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(š†‰Ú8Ã³´®,
+[squid:S1068"?Remove this unused "mCustomStartToolbarPosition" private field.(Ñ¶’£8Ã³´®,
+\squid:S1068";Remove this unused "mFinalLeftAvatarPadding" private field.(„³“Øùÿÿÿÿ8Ã³´®,
+Ssquid:S1068"2Remove this unused "mStartPosition" private field.(ˆ’½ıùÿÿÿÿ8Ã³´®,
+Ssquid:S1068"2Remove this unused "mAvatarMaxSize" private field.(ÊÚÜıÿÿÿÿ8Ã³´®,
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ïàÒëıÿÿÿÿ8Ã³´®,
+~squid:S1450"]Remove the "mAvatarMaxSize" field and declare it as a local variable in the relevant methods.(ÊÚÜıÿÿÿÿ8Ã³´®,
+Usquid:S1068"9Remove this unused "mCustomFinalYPosition" private field.(ğÂğ™8Ã³´®,
+Zsquid:S1068">Remove this unused "MIN_AVATAR_PERCENTAGE_SIZE" private field.(°Êğ¥8Ã³´®,
+Gsquid:S1905"&Remove this unnecessary cast to "int".(Ö³ğóüÿÿÿÿ8Ã³´®,
+Wsquid:S1068"6Remove this unused "mCustomStartHeight" private field.(øüÍ£úÿÿÿÿ8Ã³´®,
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(°Êğ¥8Ã³´®,
+Zsquid:S1068"9Remove this unused "mCustomStartXPosition" private field.(µÈáÂşÿÿÿÿ8Ã³´®,
+\squid:S2184"@Cast one of the operands of this integer division to a "double".(„Ú‚Æ8Ã³´®,
+Bsquid:S1905"&Remove this unnecessary cast to "int".(Ëáò±8Ã³´®,

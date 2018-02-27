@@ -1,0 +1,5 @@
+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’ı‘¿8Ò¹ØŠ,
+csquid:S1854"BRemove this useless assignment to local variable "mMaxScrollSize".(™ÂÂ˜ûÿÿÿÿ8à‘ßŠ,
+Tsquid:S1481"3Remove this unused "mMaxScrollSize" local variable.(™ÂÂ˜ûÿÿÿÿ8à‘ßŠ,
+csquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(Ñç‹ã

@@ -1,0 +1,25 @@
+
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+z
+Japp/src/main/java/com/reiserx/coordinatorlayoutdemo/IOExampleActivity.java,8/4/84127600f712e21c11a5121c5052b92a9c9928ec
+y
+Iapp/src/main/java/com/reiserx/coordinatorlayoutdemo/FlexibleActivity.java,d/b/db3f4a7642760c369036773228bf1724bfbd5a43
+{
+Kapp/src/main/java/com/reiserx/coordinatorlayoutdemo/MaterialUpActivity.java,f/1/f17e56e9e842bf25e11f97586071e7b11a331d31
+z
+Japp/src/main/java/com/reiserx/coordinatorlayoutdemo/ScrollingActivity.java,b/c/bcd210bdf155a880882bdb966efc42cbcd27a3aa
+t
+Dapp/src/main/java/com/reiserx/coordinatorlayoutdemo/LabActivity.java,3/9/397c88cc0476e265fb432686693e4ff171c9b967
+u
+Eapp/src/main/java/com/reiserx/coordinatorlayoutdemo/MainActivity.java,0/0/000aea89372f3a4e077885d89f51c29266d9abb3
+€
+Papp/src/main/java/com/reiserx/coordinatorlayoutdemo/BehaviorExampleActivity.java,0/5/0532928bb2867407de0ba001d572f89eea3aa746
+‚
+Rapp/src/main/java/com/reiserx/coordinatorlayoutdemo/until/AvatarImageBehavior.java,6/f/6f3c4c6344fd77456162d0d3346f23db47e7b008
+u
+Eapp/src/main/java/com/reiserx/coordinatorlayoutdemo/JikeActivity.java,3/8/387301147cd12a791fac2daa139f9f1dfd175279
+
+Oapp/src/main/java/com/reiserx/coordinatorlayoutdemo/until/FakePageFragment.java,1/2/12eb34656605bd6f4e6bc54fdb297dc86571a026

@@ -1,0 +1,5 @@
+
+}squid:S1450"\Remove the "mAppBarLayout" field and declare it as a local variable in the relevant methods.(ò˜÷”şÿÿÿÿ8±ø„®,
+ssquid:S1450"WRemove the "mToolbar" field and declare it as a local variable in the relevant methods.(êˆ‹©8±ø„®,
+Hsquid:S1068",Remove this unused "mToolbar" private field.(êˆ‹©8Š¬„®,
+csquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(À·‰
